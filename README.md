@@ -1,0 +1,2 @@
+# paceup-privacy
+PaceUp プライバシーポリシー
